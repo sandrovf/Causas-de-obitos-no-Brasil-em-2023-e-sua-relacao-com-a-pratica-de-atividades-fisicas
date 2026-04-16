@@ -1,4 +1,4 @@
-# 🧠📊 Análise Integrada: VIGITEL 2023 e SIM 2023  
+# Análise Integrada: VIGITEL 2023 e SIM 2023  
 ### Atividade Física, Hipertensão e Padrões de Mortalidade no Brasil
 
 Este repositório apresenta uma análise exploratória de duas bases fundamentais para a compreensão da saúde pública brasileira:
@@ -10,7 +10,7 @@ Nosso objetivo foi identificar padrões de comportamento relacionados à ativida
 
 ---
 
-## 🚀 Como Utilizar Este Repositório
+## Como Utilizar Este Repositório
 
 1. **Baixe os arquivos originais das bases de dados:**
    - **VIGITEL 2023**  
@@ -32,8 +32,8 @@ SIM_2023.ipynb
 
 Execute as células na ordem e acompanhe as análises explicadas nos próprios notebooks.
 
-📝 O que Cada Notebook Faz
-📘 VIGITEL_2023.ipynb
+O que Cada Notebook Faz
+VIGITEL_2023.ipynb
 
 Este notebook realiza:
 
@@ -65,7 +65,7 @@ top exercícios entre hipertensos
 
 Tudo é explicado em markdown dentro do notebook com metodologia clara.
 
-📘 SIM_2023.ipynb
+SIM_2023.ipynb
 
 Este notebook contém:
 
@@ -83,8 +83,8 @@ Interpretação visual do perfil de mortalidade brasileiro
 
 A análise conecta automaticamente idade → causa → padrão demográfico.
 
-📊 Principais Insights da Análise
-🔹 1. Prática de Atividade Física (VIGITEL)
+Principais Insights da Análise
+1. Prática de Atividade Física (VIGITEL)
 
 Jovens entre 20 e 39 anos são os que mais praticam exercícios.
 
@@ -98,7 +98,7 @@ corrida
 
 A prática cai de forma consistente após os 50 anos.
 
-🔹 2. Tipos de Exercícios por Idade
+2. Tipos de Exercícios por Idade
 
 Jovens: corrida, musculação, esportes.
 
@@ -108,7 +108,7 @@ Idosos: caminhada e exercícios de baixo impacto (alongamento, hidro).
 
 Isso revela uma transição natural em direção a exercícios menos intensos ao envelhecer.
 
-🔹 3. Hipertensão
+3. Hipertensão
 
 A prevalência cresce de forma acentuada a partir dos 50 anos.
 
@@ -124,8 +124,8 @@ Quase não aparecem em categorias de exercícios de alta intensidade.
 
 Isso reforça um padrão preventivo ou restritivo típico de hipertensos.
 
-⚰️ Principais Achados sobre Mortalidade (SIM 2023)
-🔹 1. Jovens (10–39 anos)
+Principais Achados sobre Mortalidade (SIM 2023)
+1. Jovens (10–39 anos)
 
 Predominam:
 
@@ -139,7 +139,7 @@ intervenções legais
 
 mortalidade por doenças é mínima
 
-🔹 2. Adultos (40–59 anos)
+2. Adultos (40–59 anos)
 
 Transição:
 
@@ -149,7 +149,7 @@ doenças metabólicas começam a aparecer
 
 causas externas ainda têm impacto
 
-🔹 3. Idosos (60+)
+3. Idosos (60+)
 
 Clareza absoluta:
 
@@ -161,7 +161,7 @@ Complicações de diabetes e hipertensão aumentam fortemente
 
 É a fase onde a mortalidade por causas evitáveis se torna mais evidente.
 
-## 🧩 Conclusão
+## Conclusão
 
 A integração dos dados do VIGITEL e do SIM revela uma conexão direta entre comportamento, condição de saúde e mortalidade ao longo do ciclo de vida.
 
@@ -170,7 +170,7 @@ A integração dos dados do VIGITEL e do SIM revela uma conexão direta entre co
 - **Idosos** concentram as maiores taxas de doenças cardiovasculares, metabólicas e respiratórias — refletindo padrões já observados nos hábitos e condições de saúde captados pelo VIGITEL.
 
 No cruzamento com o SIM, esses padrões se confirmam de forma contundente:  
-➡️ **A maior causa de morte no Brasil em 2023 foi o Infarto Agudo do Miocárdio (IAM).**
+**A maior causa de morte no Brasil em 2023 foi o Infarto Agudo do Miocárdio (IAM).**
 
 Esse achado reforça a importância da prevenção, do controle da hipertensão e da manutenção da atividade física ao longo da vida, já que os mesmos fatores que aparecem como comportamentos de risco no VIGITEL se manifestam como causas reais de mortalidade no SIM.
 
